@@ -10,7 +10,7 @@ Javascript kullanılarak local storage'a kaydedebildiğim bir bakkal listesi gel
 
 # GIF
 
-![](Crud-APP-GİF.gif)
+![](Crud-App-GIF.gif)
 
 # Link
 
