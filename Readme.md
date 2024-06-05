@@ -14,4 +14,4 @@ Javascript kullanılarak local storage'a kaydedebildiğim bir bakkal listesi gel
 
 # Link
 
-[Website](https://663d760a4db8d3883a2feee3--creative-kashata-b5cff0.netlify.app/)
+[Website](https://6660204acab856d78a5f5638--glittery-yeot-9e4216.netlify.app/)
