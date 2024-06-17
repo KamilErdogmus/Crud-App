@@ -1,5 +1,7 @@
 # Grocery List Application
 
+## Description
+
 This is a web application developed using JavaScript to create and manage a grocery list that is saved to local storage.
 
 ## Technologies Used
@@ -16,17 +18,6 @@ This is a web application developed using JavaScript to create and manage a groc
 
 [Website](https://663d760a4db8d3883a2feee3--creative-kashata-b5cff0.netlify.app/)
 
-## Description
-
-Describe your application here. Include its purpose, features, and any other relevant information.
-
-## How to Use
-
-Provide instructions on how to use your application, including how to add, remove, and manage items on the grocery list.
-
-## Installation
-
-If there are any specific installation steps required for your application, mention them here.
 
 ## Contributing
 
