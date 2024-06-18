@@ -10,6 +10,14 @@ This is a web application developed using JavaScript to create and manage a groc
 - CSS
 - JavaScript
 
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   https://github.com/KamilErdogmus/Crud-App.git
+   ```
+2. Open the index.html file in your browser
+
 # GIF
 
 ![](Crud-App-GIF.gif)
@@ -18,14 +26,3 @@ This is a web application developed using JavaScript to create and manage a groc
 
 [Website](https://663d760a4db8d3883a2feee3--creative-kashata-b5cff0.netlify.app/)
 
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Create a new Pull Request
