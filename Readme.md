@@ -14,7 +14,7 @@ This is a web application developed using JavaScript to create and manage a groc
 
 1. Clone the repository:
    ```bash
-   https://github.com/KamilErdogmus/Crud-App.git
+   git clone https://github.com/KamilErdogmus/Crud-App.git
    ```
 2. Open the index.html file in your browser
 
